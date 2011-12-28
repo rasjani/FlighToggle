@@ -1,7 +1,13 @@
 .gitignore
 Makefile
 debian/flightoggle
+debian/*.log
+debian/tmp
+debian/files
+debian/*.substvars
+*-stamp
 .objects
 .moc
 *~
+*.sw?
 src/flightoggle

@@ -1,0 +1,8 @@
+<aegis>
+  <request>
+    <credential name="dsme::DeviceStateControl" />
+    <credential name="mce::DeviceModeControl" />
+    <for path="/opt/flightoggle/bin/flightoggle" />
+  </request>
+</aegis>
+

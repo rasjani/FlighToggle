@@ -1,0 +1,14 @@
+Source: flightoggle
+Section: misc
+Priority: standard
+Maintainer: Jani Mikkonen <jani@mikkonen@biz>
+Build-Depends: debhelper (>= 5), libqmsystem2-dev, libmeegotouch-dev
+Standards-Version: 3.8.0
+
+Package: flightoggle
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Section: misc
+Description: Provides on/off button for flight mode for homescreen
+ Flightoggle provides conveniant toggle button to the launcher
+ homescreen to quickly toggle between normal and flight mode.
