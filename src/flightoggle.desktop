@@ -1,0 +1,6 @@
+[Desktop Entry]                                                                                                                                                                                                
+Type=Application
+Name=FlighToggle
+Icon=icon-s-status-flight-mode
+Exec=/usr/bin/invoker --type=m /opt/flightoggle/bin/flightoggle
+OnlyShowIn=X-MeeGo;

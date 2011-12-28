@@ -1,0 +1,7 @@
+.gitignore
+Makefile
+debian/flightoggle
+.objects
+.moc
+*~
+src/flightoggle
