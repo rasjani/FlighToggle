@@ -11,3 +11,5 @@ debian/*.substvars
 *~
 *.sw?
 src/flightoggle
+moc_*
+*.o

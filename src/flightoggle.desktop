@@ -1,6 +1,7 @@
 [Desktop Entry]                                                                                                                                                                                                
 Type=Application
 Name=FlighToggle
-Icon=icon-s-status-flight-mode
-Exec=/usr/bin/invoker --type=m /opt/flightoggle/bin/flightoggle
+Icon=/opt/flightoggle/share/pixmaps/flightoggle.png
+Exec=/opt/flightoggle/bin/flightoggle
+X-translation-catalog=flightoggle
 OnlyShowIn=X-MeeGo;
