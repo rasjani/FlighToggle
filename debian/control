@@ -7,7 +7,7 @@ Standards-Version: 3.8.0
 
 Package: flightoggle
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: libmeegotouchcore0, libqmsystem2, libqtcore4, libqtgui4, ${misc:Depends}
 Section: misc
 Description: Provides on/off button for flight mode for homescreen
  Flightoggle provides conveniant toggle button to the launcher
