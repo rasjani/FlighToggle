@@ -12,3 +12,6 @@ Section: misc
 Description: Provides on/off button for flight mode for homescreen
  Flightoggle provides conveniant toggle button to the launcher
  homescreen to quickly toggle between normal and flight mode.
+ .
+ Released under GNU General Public License V2.0
+ More info: https://github.com/rasjani/FlighToggle
