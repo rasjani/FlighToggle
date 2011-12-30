@@ -1,7 +1,7 @@
 Source: flightoggle
 Section: misc
 Priority: standard
-Maintainer: Jani Mikkonen <jani@mikkonen@biz>
+Maintainer: Jani Mikkonen <jani.mikkonen@gmail.com>
 Build-Depends: debhelper (>= 5), libqmsystem2-dev, libmeegotouch-dev, aegis-builder (>= 1.6)
 Standards-Version: 3.8.0
 
