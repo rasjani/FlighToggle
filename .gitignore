@@ -13,3 +13,8 @@ debian/*.substvars
 src/flightoggle
 moc_*
 *.o
+flightoggle.qm
+flightoggle.ts
+flightoggle_en.qm
+flightoggle_fi.qm
+
