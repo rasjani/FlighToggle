@@ -1,6 +1,7 @@
 [Desktop Entry]                                                                                                                                                                                                
 Type=Application
 Name=FlighToggle
+Name[fi]=FlighToggle
 Icon=/opt/flightoggle/share/pixmaps/flightoggle.png
 Exec=/opt/flightoggle/bin/flightoggle
 X-translation-catalog=flightoggle
