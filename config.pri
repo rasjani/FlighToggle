@@ -11,7 +11,7 @@ QMAKE_CXXFLAGS += -fvisibility=hidden -fvisibility-inlines-hidden -fPIC
 DESKTOP_INSTALL=/usr/share/applications
 INSTALL_PREFIX=/opt/flightoggle
 INSTALL_BIN=bin
-FLIGHTOGGLE_L10N=$${INSTALL_PREFIX}/share/l10n
+FLIGHTOGGLE_L10N=/usr/share/l10n/meegotouch/
 ICON_PATH=share/pixmaps
 
 DEFINES += "FLIGHTOGGLE_L10N=\\\"$${FLIGHTOGGLE_L10N}\\\""

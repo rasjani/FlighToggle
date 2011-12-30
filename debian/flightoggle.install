@@ -1,4 +1,4 @@
 usr/share/applications/flightoggle.desktop
 opt/flightoggle/bin/flightoggle
 opt/flightoggle/share/pixmaps/flightoggle.png
-opt/flightoggle/share/l10n/*
+usr/share/l10n/meegotouch/*
