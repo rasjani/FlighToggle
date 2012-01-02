@@ -1,3 +1,10 @@
+flightoggle (0.9.1) unstable; urgency=low
+
+  [ Jani Mikkonen ]
+  * Possible fix for required aegis token ..
+
+ -- Jani Mikkonen <jani.mikkonen@gmail.com>  Mon, 02 Jan 2012 13:51:49 +0200
+
 flightoggle (0.9.0) unstable; urgency=low
 
   [ Jani Mikkonen ]
